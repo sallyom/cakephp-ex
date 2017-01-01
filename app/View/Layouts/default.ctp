@@ -213,7 +213,19 @@ pre {
             <h1>HEY!! I MADE A CHANGE!! HELLO!</h1>
             <h2>LINCOLN STREET SCHOOL IS AWESOME!<h2>
             <h1>5TH GRADE ROCKS!<h1>
-          </hgroup>
+
+  <SCRIPT Language="JavaScript">
+<!-- hide from old browsers
+var today = new Date()
+var targetDate = new Date("06/13/2017") //use full year 
+var timeBeforeTarget = Math.floor(( targetDate.getTime()
+        - today.getTime()) / 86400000)
+var msg = "<B>There are only "  + (timeBeforeTarget +1)  
+         + " days until the year 3000.</B>"
+document.write(msg)
+//-->
+</SCRIPT>       
+              </hgroup>
 
 </section>
 
