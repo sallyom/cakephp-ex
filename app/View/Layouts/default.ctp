@@ -213,6 +213,9 @@ pre {
             <h1>HEY!! I MADE A CHANGE!! HELLO!</h1>
             <h2>LINCOLN STREET SCHOOL IS AWESOME!<h2>
             <h1>5TH GRADE ROCKS!<h1>
+<IMG SRC="cgi-bin/counter?width=5&link=
+{http://www.htmlgoodies.com/} {counter.html}">
+
 
   <SCRIPT Language="JavaScript">
 <!-- hide from old browsers
