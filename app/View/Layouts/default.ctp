@@ -221,7 +221,7 @@ var targetDate = new Date("06/13/2017") //use full year
 var timeBeforeTarget = Math.floor(( targetDate.getTime()
         - today.getTime()) / 86400000)
 var msg = "<B>There are only "  + (timeBeforeTarget +1)  
-         + " days until the year 3000.</B>"
+         + " days until summer vacation.</B>"
 document.write(msg)
 //-->
 </SCRIPT>       
