@@ -217,7 +217,7 @@ pre {
 {http://www.htmlgoodies.com/} {counter.html}">
 
 
-  <SCRIPT Language="JavaScript">
+<SCRIPT Language="JavaScript">
 <!-- hide from old browsers
 var today = new Date()
 var targetDate = new Date("06/13/2017") //use full year 
@@ -227,8 +227,14 @@ var msg = "<B>There are only "  + (timeBeforeTarget +1)
          + " days until summer vacation.</B>"
 document.write(msg)
 //-->
-</SCRIPT>       
-              </hgroup>
+</SCRIPT>   
+  <br/>
+<script type="text/javascript" src="http://counter3.01counter.com/private/counter.js?c=a300444185d433c99cc19a3a1344f7c3"></script>
+<noscript><a href="http://www.freecounterstat.com" title="free hit counters"><img src="http://counter3.01counter.com/private/freecounterstat.php?c=a300444185d433c99cc19a3a1344f7c3" border="0" title="free hit counters" alt="free hit counters"></a>
+</noscript>
+       
+ 
+</hgroup>
 
 </section>
 
