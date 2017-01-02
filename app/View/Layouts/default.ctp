@@ -43,6 +43,8 @@ section{
 }
 body {
   background-image: url("http://backgroundlabs.com/wp-content/uploads/2014/10/yellow-triangles-background.jpg");
+  background-position: top, bottom;
+  background-repeat: repeat-x, repeat-x;
   color: black;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 20px;
