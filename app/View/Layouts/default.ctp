@@ -207,6 +207,8 @@ pre {
 
 </head>
 <body>
+	
+background-color: lightblue;
 
 <section class='container'>
           <hgroup>
