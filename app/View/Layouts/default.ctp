@@ -217,7 +217,7 @@ pre {
 </hgroup>
 
 </section>
-	
+<section class='container'>	
 <SCRIPT Language="JavaScript">
 <!-- hide from old browsers
 var today = new Date()
@@ -234,6 +234,6 @@ document.write(msg)
 document.write('Lincoln Street website!!'.link('http://lss.sau16.org/'));
 </script>
 </p>
-
+	</section>
 </body>
 </html>
