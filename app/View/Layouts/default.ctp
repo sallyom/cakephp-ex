@@ -223,12 +223,12 @@ var timeBeforeTarget = Math.floor(( targetDate.getTime()
 var msg = "<B>There are only "  + (timeBeforeTarget +1)  
          + " days until summer vacation.</B>"
 document.write(msg)
-	
+//-->
+</SCRIPT>
+<SCRIPT Language="JavaScript">
 var text = 'Visit Lincoln Street School!';
 var html = text.link('http://lss.sau16.org/'); 
 html === "<a href='http://lss.sau16.org/'>Visit Lincoln Street School</a>" //true
-
-//-->
 </SCRIPT>   						
 
 </hgroup>
