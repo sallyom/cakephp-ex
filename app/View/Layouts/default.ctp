@@ -214,7 +214,10 @@ pre {
             <h1>HEY!! I MADE A CHANGE!! HELLO!</h1>
             <h2>LINCOLN STREET SCHOOL IS AWESOME!</h2>
             <h1>5TH GRADE ROCKS!</h1>
+</hgroup>
 
+</section>
+	
 <SCRIPT Language="JavaScript">
 <!-- hide from old browsers
 var today = new Date()
@@ -231,11 +234,6 @@ document.write(msg)
 document.write('Lincoln Street website!!'.link('http://lss.sau16.org/'));
 </script>
 </p>
-
-</hgroup>
-
-</section>
-
 
 </body>
 </html>
