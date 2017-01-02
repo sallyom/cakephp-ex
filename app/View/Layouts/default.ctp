@@ -43,6 +43,7 @@ section{
 }
 body {
   background-color: lightblue;
+	background-image: url("paper.gif");
   color: #FFC300;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
