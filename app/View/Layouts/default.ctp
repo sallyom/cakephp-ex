@@ -45,6 +45,7 @@ body {
   background-image: url("http://backgroundlabs.com/wp-content/uploads/2014/10/yellow-triangles-background.jpg");
   background-position: top, bottom;
   background-repeat: repeat-x, repeat-x;
+  min-height: 100%;
   color: black;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 20px;
@@ -55,6 +56,7 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  min-height: 100%;
 }
 ul {
     margin-top: 0;
