@@ -225,11 +225,9 @@ var msg = "<B>There are only "  + (timeBeforeTarget +1)
 document.write(msg)
 //-->
 </SCRIPT>
-<SCRIPT Language="JavaScript">
-var text = 'Visit Lincoln Street School!';
-var html = text.link('http://lss.sau16.org/'); 
-html === "<a href='http://lss.sau16.org/'>Visit Lincoln Street School</a>" //true
-</SCRIPT>   						
+<script type="text/javascript">
+document.write('Lincoln Street website!!'.link('http://lss.sau16.org/'));
+</script>
 
 </hgroup>
 
