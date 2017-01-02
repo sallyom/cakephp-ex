@@ -225,8 +225,11 @@ var msg = "<B>There are only "  + (timeBeforeTarget +1)
 document.write(msg)
 //-->
 </SCRIPT>   
+		  <p><a href=”http://lss.sau16.org”>Lincoln Street School webpage</a></p>
+
+
  
-						<a href=”http://lss.sau16.org”>Lincoln Street School webpage</a>
+						
 
 </hgroup>
 
