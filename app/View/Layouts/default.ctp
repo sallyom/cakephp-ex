@@ -42,6 +42,7 @@ section{
   display: block;
 }
 body {
+  background-color: lightblue
   color: #FFC300;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
