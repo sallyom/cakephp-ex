@@ -42,11 +42,10 @@ section{
   display: block;
 }
 body {
-  background-color: lightblue;
-	background-image: url("paper.gif");
-  color: #FFC300;
+  background-image: url("http://backgroundlabs.com/wp-content/uploads/2014/10/retro-mustache-pattern.png");
+  color: black;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.4;
 }
 
