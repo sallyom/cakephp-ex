@@ -239,6 +239,6 @@ document.write('Lincoln Street website!!'.link('http://lss.sau16.org/'));
 </script>
 </p>
 </section>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
 </body>
 </html>
