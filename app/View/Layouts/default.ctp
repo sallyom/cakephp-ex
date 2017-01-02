@@ -42,7 +42,7 @@ section{
   display: block;
 }
 body {
-  background-color: lightblue
+  background-color: lightblue;
   color: #FFC300;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
@@ -208,8 +208,6 @@ pre {
 
 </head>
 <body>
-	
-background-color: lightblue;
 
 <section class='container'>
           <hgroup>
