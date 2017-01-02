@@ -226,6 +226,8 @@ document.write(msg)
 //-->
 </SCRIPT>   
  
+						<a href=”http://lss.sau16.org”>Lincoln Street School webpage</a>
+
 </hgroup>
 
 </section>
